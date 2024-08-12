@@ -11,10 +11,10 @@ Scalable Vector Database: Integrates Qdrant vector database for fast and scalabl
 PDF Parsing: Uses pypdf for extracting text from PDFs to facilitate question answering.
 
 # Technologies Used
-## Languages & Libraries: Python, Hugging Face's BGE model, sentence_transformers, torch, pypdf
-## Database: Qdrant vector database
-## Containerization: Docker
-## Embedding Techniques: Embedding models and sentence_transformers
+- Languages & Libraries: Python, Hugging Face's BGE model, sentence_transformers, torch, pypdf
+- Database: Qdrant vector database
+- Containerization: Docker
+- Embedding Techniques: Embedding models and sentence_transformers
 
 Getting Started
 Prerequisites
