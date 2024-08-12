@@ -43,4 +43,7 @@ pip install -r requirements.txt
 - run the ingest.py to create the embeddings. Once the embeddings are created,
 - run the app.py to retrieve the relevant docs/chunks
 
+## Result
+![image](https://github.com/user-attachments/assets/1fec6763-1783-4074-847a-1d04fb90a62b)
+
 
