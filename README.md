@@ -16,7 +16,7 @@ PDF Parsing: Uses pypdf for extracting text from PDFs to facilitate question ans
 - Containerization: Docker
 - Embedding Techniques: Embedding models and sentence_transformers
 
-Getting Started
+## Getting Started
 Prerequisites
 - Python 3.7 or higher
 - Docker
